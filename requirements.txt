@@ -6,8 +6,7 @@ deep-translator
 gTTS
 streamlit
 streamlit-webrtc
-
-
+elevenlabs
 
 
 
