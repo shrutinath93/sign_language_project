@@ -187,7 +187,7 @@ def put_unicode_text(img, text, position, font_size=24, color=(255, 150, 0)):
                 print("Could not load:", path, e)
 
     if font is None:
-        print("❌ NO UNICODE FONT FOUND!")
+        print(" NO UNICODE FONT FOUND!")
         return img
 
     draw.text(
